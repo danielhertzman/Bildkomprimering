@@ -28,7 +28,7 @@ public class MegatronGraphics {
                 out.write(pxl[1]);
                 out.write(pxl[2]);
 
-                System.out.println("ffgfg");
+  
             }
         }
         out.close();
